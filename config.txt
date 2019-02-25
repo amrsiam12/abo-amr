@@ -1,0 +1,6 @@
+owner=531608301331415079
+prefix=2
+game= Qu££N|2play
+stayinchannel=true
+songinstatus=false
+token= NTQ5NzE1MzUwNzQ5NDQ2Mzk4.D1X6BA.eVc-QVrxSGH0H_CRkzQLTF-_ERg
